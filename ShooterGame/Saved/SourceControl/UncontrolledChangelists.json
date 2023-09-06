@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Y:/Unreal Games/Shooter/Shooter/ShooterGame/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.umap"
+			]
+		}
+	]
+}

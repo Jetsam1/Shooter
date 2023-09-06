@@ -1092,3 +1092,1112 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.04-16.23.57:052][786]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.14% of total time (compiled    3 times, average 0.81 sec, max 0.89 sec, min 0.70 sec)
 [2023.09.04-16.23.57:052][786]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false - 2.33% of total time (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
 [2023.09.04-16.23.57:052][786]LogShaderCompilers: Display: ================================================
+[2023.09.04-16.39.28:554][889]LogSlate: Took 0.000891 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.04-16.39.39:307][920]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Det_B...
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Det_A...
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Main_A...
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Main_B...
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Main_C...
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_OuterRing_A...
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Main_D...
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_OuterRing_B...
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_OuterRing_D...
+[2023.09.04-16.39.41:892][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Panel_A...
+[2023.09.04-16.39.41:893][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_OuterRing_C...
+[2023.09.04-16.39.41:897][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Pipe_Large...
+[2023.09.04-16.39.41:900][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Pipe_Small...
+[2023.09.04-16.39.41:902][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Ring_A1...
+[2023.09.04-16.39.41:902][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Ring_A2...
+[2023.09.04-16.39.41:907][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Main_D.SM_Ceiling_Main_D
+[2023.09.04-16.39.41:909][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Panel_A.SM_Ceiling_Panel_A
+[2023.09.04-16.39.41:910][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Sides_A...
+[2023.09.04-16.39.41:911][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Window_A...
+[2023.09.04-16.39.41:914][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Det_B.SM_Ceiling_Det_B
+[2023.09.04-16.39.41:916][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Det_A.SM_Ceiling_Det_A
+[2023.09.04-16.39.41:917][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Pipe_Large.SM_Ceiling_Pipe_Large
+[2023.09.04-16.39.41:918][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Window_A_Glass...
+[2023.09.04-16.39.41:918][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Center_A1...
+[2023.09.04-16.39.41:920][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Center_A2...
+[2023.09.04-16.39.41:922][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Center_B...
+[2023.09.04-16.39.41:922][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Center_A3...
+[2023.09.04-16.39.41:927][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Center_Pipes_A...
+[2023.09.04-16.39.41:927][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Main_B.SM_Ceiling_Main_B
+[2023.09.04-16.39.41:929][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Pipe_Small.SM_Ceiling_Pipe_Small
+[2023.09.04-16.39.41:931][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Sides_A.SM_Ceiling_Sides_A
+[2023.09.04-16.39.41:933][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Window_A_Glass.SM_Ceiling_Window_A_Glass
+[2023.09.04-16.39.41:935][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Filler...
+[2023.09.04-16.39.41:936][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Panel_A1...
+[2023.09.04-16.39.41:938][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Ring_A2.SM_Ceiling_Ring_A2
+[2023.09.04-16.39.41:940][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Panel_A2...
+[2023.09.04-16.39.41:942][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Panel_A3...
+[2023.09.04-16.39.41:943][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_OuterRing_C.SM_Ceiling_OuterRing_C
+[2023.09.04-16.39.41:949][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Panel_A4...
+[2023.09.04-16.39.41:959][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Filler.SM_Floor_Filler
+[2023.09.04-16.39.41:959][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Sides_A...
+[2023.09.04-16.39.41:962][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Window_A...
+[2023.09.04-16.39.41:976][ 39]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_OuterRing_D.SM_Ceiling_OuterRing_D
+[2023.09.04-16.39.41:980][ 39]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A2.SM_Floor_Center_A2
+[2023.09.04-16.39.41:985][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Window_A.SM_Floor_Window_A
+[2023.09.04-16.39.41:993][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Panel_A4.SM_Floor_Panel_A4
+[2023.09.04-16.39.41:996][ 39]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Panel_A1.SM_Floor_Panel_A1
+[2023.09.04-16.39.42:001][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Window_B...
+[2023.09.04-16.39.42:007][ 39]LogStaticMesh: Built static mesh [0.12s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Main_A.SM_Ceiling_Main_A
+[2023.09.04-16.39.42:007][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Panel_A2.SM_Floor_Panel_A2
+[2023.09.04-16.39.42:007][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Window_C...
+[2023.09.04-16.39.42:008][ 39]LogStaticMesh: Display: Building static mesh SM_Floor_Window_D...
+[2023.09.04-16.39.42:013][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Sides_A.SM_Floor_Sides_A
+[2023.09.04-16.39.42:016][ 39]LogStaticMesh: Display: Building static mesh SM_Light_A...
+[2023.09.04-16.39.42:017][ 39]LogStaticMesh: Display: Building static mesh SM_Light_B...
+[2023.09.04-16.39.42:018][ 39]LogStaticMesh: Display: Building static mesh SM_Railing_Center...
+[2023.09.04-16.39.42:023][ 39]LogStaticMesh: Built static mesh [0.13s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Main_C.SM_Ceiling_Main_C
+[2023.09.04-16.39.42:023][ 39]LogStaticMesh: Display: Building static mesh SM_Railing_Window...
+[2023.09.04-16.39.42:027][ 39]LogStaticMesh: Display: Building static mesh SM_Stairs_A1...
+[2023.09.04-16.39.42:027][ 39]LogStaticMesh: Built static mesh [0.10s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_Pipes_A.SM_Floor_Center_Pipes_A
+[2023.09.04-16.39.42:035][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Window_D.SM_Floor_Window_D
+[2023.09.04-16.39.42:036][ 39]LogStaticMesh: Display: Building static mesh SM_Stairs_A_Straight...
+[2023.09.04-16.39.42:045][ 39]LogStaticMesh: Display: Building static mesh SM_Terminal_A...
+[2023.09.04-16.39.42:048][ 39]LogStaticMesh: Built static mesh [0.13s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_B.SM_Floor_Center_B
+[2023.09.04-16.39.42:051][ 39]LogStaticMesh: Display: Building static mesh SM_Terminal_A_UI...
+[2023.09.04-16.39.42:052][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Light_B.SM_Light_B
+[2023.09.04-16.39.42:058][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_A...
+[2023.09.04-16.39.42:058][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Light_A.SM_Light_A
+[2023.09.04-16.39.42:063][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Railing_Center.SM_Railing_Center
+[2023.09.04-16.39.42:069][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_B...
+[2023.09.04-16.39.42:074][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Border_A...
+[2023.09.04-16.39.42:075][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Border_B...
+[2023.09.04-16.39.42:084][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_C...
+[2023.09.04-16.39.42:090][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Railing_Window.SM_Railing_Window
+[2023.09.04-16.39.42:090][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Border_A.SM_Wall_Border_A
+[2023.09.04-16.39.42:094][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Center_A...
+[2023.09.04-16.39.42:099][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Terminal_A_UI.SM_Terminal_A_UI
+[2023.09.04-16.39.42:100][ 39]LogStaticMesh: Built static mesh [0.16s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Panel_A3.SM_Floor_Panel_A3
+[2023.09.04-16.39.42:107][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Center_B...
+[2023.09.04-16.39.42:108][ 39]LogStaticMesh: Built static mesh [0.11s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Window_B.SM_Floor_Window_B
+[2023.09.04-16.39.42:115][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Corner_A...
+[2023.09.04-16.39.42:116][ 39]LogStaticMesh: Built static mesh [0.22s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Ring_A1.SM_Ceiling_Ring_A1
+[2023.09.04-16.39.42:117][ 39]LogStaticMesh: Built static mesh [0.11s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Window_C.SM_Floor_Window_C
+[2023.09.04-16.39.42:120][ 39]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A_Straight.SM_Stairs_A_Straight
+[2023.09.04-16.39.42:123][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_A.SM_Wall_A
+[2023.09.04-16.39.42:125][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Corner_B...
+[2023.09.04-16.39.42:136][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_D...
+[2023.09.04-16.39.42:139][ 39]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_C.SM_Wall_C
+[2023.09.04-16.39.42:153][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Corner_A.SM_Wall_Corner_A
+[2023.09.04-16.39.42:158][ 39]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Border_B.SM_Wall_Border_B
+[2023.09.04-16.39.42:158][ 39]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_B.SM_Wall_B
+[2023.09.04-16.39.42:165][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Det_DoorBig_B...
+[2023.09.04-16.39.42:165][ 39]LogStaticMesh: Built static mesh [0.14s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A1.SM_Stairs_A1
+[2023.09.04-16.39.42:165][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Det_DoorBig_C...
+[2023.09.04-16.39.42:167][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Det_DoorBig_D...
+[2023.09.04-16.39.42:169][ 39]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Center_A.SM_Wall_Center_A
+[2023.09.04-16.39.42:170][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Det_DoorBig_F...
+[2023.09.04-16.39.42:173][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Det_DoorBig_E...
+[2023.09.04-16.39.42:178][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Det_DoorBig_C.SM_Wall_Det_DoorBig_C
+[2023.09.04-16.39.42:179][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Det_DoorSmall_B...
+[2023.09.04-16.39.42:182][ 39]LogStaticMesh: Built static mesh [0.26s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A1.SM_Floor_Center_A1
+[2023.09.04-16.39.42:183][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_D.SM_Wall_D
+[2023.09.04-16.39.42:184][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Det_DoorBig_F.SM_Wall_Det_DoorBig_F
+[2023.09.04-16.39.42:184][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Det_DoorBig_B.SM_Wall_Det_DoorBig_B
+[2023.09.04-16.39.42:185][ 39]LogStaticMesh: Built static mesh [0.27s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_Window_A.SM_Ceiling_Window_A
+[2023.09.04-16.39.42:185][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Detail_A...
+[2023.09.04-16.39.42:189][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Det_DoorBig_E.SM_Wall_Det_DoorBig_E
+[2023.09.04-16.39.42:190][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Div_Slim...
+[2023.09.04-16.39.42:196][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Div_Slim.SM_Wall_Div_Slim
+[2023.09.04-16.39.42:199][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Div_Slim2...
+[2023.09.04-16.39.42:203][ 39]LogStaticMesh: Built static mesh [0.10s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Center_B.SM_Wall_Center_B
+[2023.09.04-16.39.42:205][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Pipe_A...
+[2023.09.04-16.39.42:206][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Div_Slim2.SM_Wall_Div_Slim2
+[2023.09.04-16.39.42:206][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Detail_A.SM_Wall_Detail_A
+[2023.09.04-16.39.42:207][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Pipe_C...
+[2023.09.04-16.39.42:209][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Pipe_DoorBig...
+[2023.09.04-16.39.42:210][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Pipe_DoorSmall...
+[2023.09.04-16.39.42:210][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Pipe_F...
+[2023.09.04-16.39.42:210][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Det_DoorBig_D.SM_Wall_Det_DoorBig_D
+[2023.09.04-16.39.42:212][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Pipe_H...
+[2023.09.04-16.39.42:212][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Window_A...
+[2023.09.04-16.39.42:215][ 39]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Corner_B.SM_Wall_Corner_B
+[2023.09.04-16.39.42:215][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Det_DoorSmall_B.SM_Wall_Det_DoorSmall_B
+[2023.09.04-16.39.42:223][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Window_B...
+[2023.09.04-16.39.42:224][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Pipe_DoorSmall.SM_Wall_Pipe_DoorSmall
+[2023.09.04-16.39.42:224][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Window_Pipe...
+[2023.09.04-16.39.42:226][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Pipe_C.SM_Wall_Pipe_C
+[2023.09.04-16.39.42:227][ 39]LogStaticMesh: Display: Building static mesh SM_Windows_A...
+[2023.09.04-16.39.42:227][ 39]LogStaticMesh: Display: Building static mesh SM_Windows_A_Glass...
+[2023.09.04-16.39.42:228][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Pipe_F.SM_Wall_Pipe_F
+[2023.09.04-16.39.42:230][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Pipe_A.SM_Wall_Pipe_A
+[2023.09.04-16.39.42:230][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Pipe_DoorBig.SM_Wall_Pipe_DoorBig
+[2023.09.04-16.39.42:231][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_A...
+[2023.09.04-16.39.42:233][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_B_2...
+[2023.09.04-16.39.42:233][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_B...
+[2023.09.04-16.39.42:236][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Windows_A_Glass.SM_Windows_A_Glass
+[2023.09.04-16.39.42:237][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_B_3...
+[2023.09.04-16.39.42:239][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_B_4...
+[2023.09.04-16.39.42:243][ 39]LogStaticMesh: Display: Building static mesh SM_Windows_B...
+[2023.09.04-16.39.42:244][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_Pipe_E...
+[2023.09.04-16.39.42:254][ 39]LogStaticMesh: Display: Building static mesh SM_CeilingBrace_A...
+[2023.09.04-16.39.42:259][ 39]LogStaticMesh: Display: Building static mesh SM_CeilingEdge_A...
+[2023.09.04-16.39.42:260][ 39]LogStaticMesh: Display: Building static mesh SM_CeilingEdge_B...
+[2023.09.04-16.39.42:261][ 39]LogStaticMesh: Display: Building static mesh SM_Door_L...
+[2023.09.04-16.39.42:263][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Window_Pipe.SM_Wall_Window_Pipe
+[2023.09.04-16.39.42:263][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_CeilingBrace_A.SM_CeilingBrace_A
+[2023.09.04-16.39.42:267][ 39]LogStaticMesh: Display: Building static mesh SM_Doorway_L...
+[2023.09.04-16.39.42:267][ 39]LogStaticMesh: Built static mesh [0.38s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_OuterRing_B.SM_Ceiling_OuterRing_B
+[2023.09.04-16.39.42:268][ 39]LogStaticMesh: Display: Building static mesh SM_Doorway_S_B...
+[2023.09.04-16.39.42:275][ 39]LogStaticMesh: Built static mesh [0.38s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Ceiling_OuterRing_A.SM_Ceiling_OuterRing_A
+[2023.09.04-16.39.42:276][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_CeilingEdge_B.SM_CeilingEdge_B
+[2023.09.04-16.39.42:277][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Windows_B.SM_Windows_B
+[2023.09.04-16.39.42:280][ 39]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Pipe_E.SM_Wall_Pipe_E
+[2023.09.04-16.39.42:284][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Window_A.SM_Wall_Window_A
+[2023.09.04-16.39.42:289][ 39]LogStaticMesh: Display: Building static mesh SM_FloorBuffer_A...
+[2023.09.04-16.39.42:302][ 39]LogStaticMesh: Display: Building static mesh SM_FloorBuffer_A_2...
+[2023.09.04-16.39.42:302][ 39]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Pipe_H.SM_Wall_Pipe_H
+[2023.09.04-16.39.42:302][ 39]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_4.SM_Ceiling_B_4
+[2023.09.04-16.39.42:306][ 39]LogStaticMesh: Display: Building static mesh SM_FloorBuffer_B...
+[2023.09.04-16.39.42:316][ 39]LogStaticMesh: Display: Building static mesh SM_FloorPanel_A...
+[2023.09.04-16.39.42:317][ 39]LogStaticMesh: Display: Building static mesh SM_FloorBuffer_B_2...
+[2023.09.04-16.39.42:338][ 39]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Door_L.SM_Door_L
+[2023.09.04-16.39.42:339][ 39]LogStaticMesh: Display: Building static mesh SM_Doorway_S_C...
+[2023.09.04-16.39.42:340][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A.SM_FloorPanel_A
+[2023.09.04-16.39.42:341][ 39]LogStaticMesh: Built static mesh [0.12s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Window_B.SM_Wall_Window_B
+[2023.09.04-16.39.42:341][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Doorway_S_B.SM_Doorway_S_B
+[2023.09.04-16.39.42:342][ 39]LogStaticMesh: Display: Building static mesh SM_FloorPanel_A_2...
+[2023.09.04-16.39.42:343][ 39]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Doorway_L.SM_Doorway_L
+[2023.09.04-16.39.42:348][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Doorway_Panel...
+[2023.09.04-16.39.42:356][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Wall_C_3...
+[2023.09.04-16.39.42:357][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Hall_Doorway_Panel.SM_Hall_Doorway_Panel
+[2023.09.04-16.39.42:359][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_WDetails_A...
+[2023.09.04-16.39.42:361][ 39]LogStaticMesh: Built static mesh [0.13s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B.SM_Ceiling_B
+[2023.09.04-16.39.42:369][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_FloorPanel_A_2.SM_FloorPanel_A_2
+[2023.09.04-16.39.42:369][ 39]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B.SM_FloorBuffer_B
+[2023.09.04-16.39.42:370][ 39]LogStaticMesh: Display: Building static mesh SM_Pipe_Ceiling_A...
+[2023.09.04-16.39.42:373][ 39]LogStaticMesh: Display: Building static mesh SM_Pipe_Ceiling_C...
+[2023.09.04-16.39.42:374][ 39]LogStaticMesh: Display: Building static mesh SM_Pipe_Ceiling_B...
+[2023.09.04-16.39.42:375][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A_2.SM_FloorBuffer_A_2
+[2023.09.04-16.39.42:377][ 39]LogStaticMesh: Display: Building static mesh SM_Pipe_Div_B...
+[2023.09.04-16.39.42:381][ 39]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_A.SM_FloorBuffer_A
+[2023.09.04-16.39.42:384][ 39]LogStaticMesh: Built static mesh [0.15s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_2.SM_Ceiling_B_2
+[2023.09.04-16.39.42:387][ 39]LogStaticMesh: Display: Building static mesh SM_Pipe_Vent_2...
+[2023.09.04-16.39.42:390][ 39]LogStaticMesh: Display: Building static mesh SM_Light_Square...
+[2023.09.04-16.39.42:391][ 39]LogStaticMesh: Display: Building static mesh SM_Pipe_Wall_A...
+[2023.09.04-16.39.42:395][ 39]LogStaticMesh: Display: Building static mesh SM_Pipe_WinCeiling_2...
+[2023.09.04-16.39.42:398][ 39]LogStaticMesh: Display: Building static mesh SM_Pipes_Doorway...
+[2023.09.04-16.39.42:405][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Hall_Wall_C_3.SM_Hall_Wall_C_3
+[2023.09.04-16.39.42:406][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Doorway_S_C.SM_Doorway_S_C
+[2023.09.04-16.39.42:408][ 39]LogStaticMesh: Display: Building static mesh SM_Pipe_Vent...
+[2023.09.04-16.39.42:411][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Ceiling_A.SM_Pipe_Ceiling_A
+[2023.09.04-16.39.42:415][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_A_2...
+[2023.09.04-16.39.42:417][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Light_Square.SM_Light_Square
+[2023.09.04-16.39.42:417][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_A...
+[2023.09.04-16.39.42:425][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_B_2...
+[2023.09.04-16.39.42:426][ 39]LogStaticMesh: Built static mesh [0.11s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_FloorBuffer_B_2.SM_FloorBuffer_B_2
+[2023.09.04-16.39.42:428][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Div_B.SM_Pipe_Div_B
+[2023.09.04-16.39.42:433][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_B_3...
+[2023.09.04-16.39.42:433][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_C...
+[2023.09.04-16.39.42:436][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Wall_A.SM_Pipe_Wall_A
+[2023.09.04-16.39.42:439][ 39]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Hall_WDetails_A.SM_Hall_WDetails_A
+[2023.09.04-16.39.42:441][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_D...
+[2023.09.04-16.39.42:442][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Wall_C.SM_Wall_C
+[2023.09.04-16.39.42:444][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Ceiling_C.SM_Pipe_Ceiling_C
+[2023.09.04-16.39.42:445][ 39]LogStaticMesh: Display: Building static mesh SM_WallBuffer_A...
+[2023.09.04-16.39.42:448][ 39]LogStaticMesh: Display: Building static mesh SM_WallBuffer_B...
+[2023.09.04-16.39.42:450][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Wall_B_2.SM_Wall_B_2
+[2023.09.04-16.39.42:450][ 39]LogStaticMesh: Display: Building static mesh SM_WallEdge_A...
+[2023.09.04-16.39.42:452][ 39]LogStaticMesh: Display: Building static mesh SM_WallEdge_A_2...
+[2023.09.04-16.39.42:454][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_B...
+[2023.09.04-16.39.42:458][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Wall_B_3.SM_Wall_B_3
+[2023.09.04-16.39.42:460][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Wall_A.SM_Wall_A
+[2023.09.04-16.39.42:461][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_WallBuffer_A.SM_WallBuffer_A
+[2023.09.04-16.39.42:463][ 39]LogStaticMesh: Display: Building static mesh SM_WallEdge_A_4...
+[2023.09.04-16.39.42:464][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Wall_A_2.SM_Wall_A_2
+[2023.09.04-16.39.42:468][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_WallEdge_A_2.SM_WallEdge_A_2
+[2023.09.04-16.39.42:468][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Ceiling_A...
+[2023.09.04-16.39.42:469][ 39]LogStaticMesh: Display: Building static mesh SM_WallEdge_A_3...
+[2023.09.04-16.39.42:469][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Ceiling_B...
+[2023.09.04-16.39.42:474][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Ceiling_C...
+[2023.09.04-16.39.42:516][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_WallEdge_A_3.SM_WallEdge_A_3
+[2023.09.04-16.39.42:517][ 39]LogStaticMesh: Built static mesh [0.28s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_B_3.SM_Ceiling_B_3
+[2023.09.04-16.39.42:517][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Ceiling_A.SM_Win_Ceiling_A
+[2023.09.04-16.39.42:517][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_WallEdge_A.SM_WallEdge_A
+[2023.09.04-16.39.42:517][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_WallBuffer_B.SM_WallBuffer_B
+[2023.09.04-16.39.42:517][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_WallEdge_A_4.SM_WallEdge_A_4
+[2023.09.04-16.39.42:517][ 39]LogStaticMesh: Built static mesh [0.12s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_WinCeiling_2.SM_Pipe_WinCeiling_2
+[2023.09.04-16.39.42:518][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Ceiling_C.SM_Win_Ceiling_C
+[2023.09.04-16.39.42:519][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Wall_B.SM_Wall_B
+[2023.09.04-16.39.42:520][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Ceiling_D...
+[2023.09.04-16.39.42:522][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Ceiling_F...
+[2023.09.04-16.39.42:522][ 39]LogStaticMesh: Built static mesh [0.26s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_CeilingEdge_A.SM_CeilingEdge_A
+[2023.09.04-16.39.42:522][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Ceiling_E...
+[2023.09.04-16.39.42:525][ 39]LogStaticMesh: Display: Building static mesh SM_Win_CeilingBrace...
+[2023.09.04-16.39.42:529][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Ceiling_E.SM_Win_Ceiling_E
+[2023.09.04-16.39.42:529][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Divider_A...
+[2023.09.04-16.39.42:529][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Divider_B...
+[2023.09.04-16.39.42:529][ 39]LogStaticMesh: Display: Building static mesh SM_Win_CeilingPipes_A...
+[2023.09.04-16.39.42:530][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Floor_A...
+[2023.09.04-16.39.42:530][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Floor_B...
+[2023.09.04-16.39.42:532][ 39]LogStaticMesh: Display: Building static mesh SM_Win_FloorBuffer_A...
+[2023.09.04-16.39.42:532][ 39]LogStaticMesh: Display: Building static mesh SM_Win_FloorEdge_A...
+[2023.09.04-16.39.42:565][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Ceiling_F.SM_Win_Ceiling_F
+[2023.09.04-16.39.42:565][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Ceiling_D.SM_Win_Ceiling_D
+[2023.09.04-16.39.42:567][ 39]LogStaticMesh: Display: Building static mesh SM_Win_FloorEdge_B...
+[2023.09.04-16.39.42:569][ 39]LogStaticMesh: Display: Building static mesh SM_Win_FloorEdge_C...
+[2023.09.04-16.39.42:571][ 39]LogStaticMesh: Built static mesh [0.34s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Windows_A.SM_Windows_A
+[2023.09.04-16.39.42:572][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_A.SM_Win_FloorEdge_A
+[2023.09.04-16.39.42:577][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Frame_A...
+[2023.09.04-16.39.42:577][ 39]LogStaticMesh: Built static mesh [0.20s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Ceiling_B.SM_Pipe_Ceiling_B
+[2023.09.04-16.39.42:578][ 39]LogStaticMesh: Built static mesh [0.14s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Wall_D.SM_Wall_D
+[2023.09.04-16.39.42:579][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_CeilingPipes_A.SM_Win_CeilingPipes_A
+[2023.09.04-16.39.42:580][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_C.SM_Win_FloorEdge_C
+[2023.09.04-16.39.42:581][ 39]LogStaticMesh: Built static mesh [0.19s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Vent_2.SM_Pipe_Vent_2
+[2023.09.04-16.39.42:582][ 39]LogStaticMesh: Display: Building static mesh SM_Win_FramePipe_A...
+[2023.09.04-16.39.42:585][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorEdge_B.SM_Win_FloorEdge_B
+[2023.09.04-16.39.42:588][ 39]LogStaticMesh: Display: Building static mesh SM_Win_FramePipe_B...
+[2023.09.04-16.39.42:596][ 39]LogStaticMesh: Display: Building static mesh SM_Win_FramePipe_C...
+[2023.09.04-16.39.42:600][ 39]LogStaticMesh: Display: Building static mesh SM_Win_PanelHigh_A...
+[2023.09.04-16.39.42:601][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_B.SM_Win_Floor_B
+[2023.09.04-16.39.42:605][ 39]LogStaticMesh: Display: Building static mesh SM_Win_PanelLow_A...
+[2023.09.04-16.39.42:607][ 39]LogStaticMesh: Display: Building static mesh SM_Win_Post_A...
+[2023.09.04-16.39.42:609][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_PanelHigh_A.SM_Win_PanelHigh_A
+[2023.09.04-16.39.42:611][ 39]LogStaticMesh: Built static mesh [0.20s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Pipe_Vent.SM_Pipe_Vent
+[2023.09.04-16.39.42:614][ 39]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Floor_A.SM_Win_Floor_A
+[2023.09.04-16.39.42:617][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_FramePipe_B.SM_Win_FramePipe_B
+[2023.09.04-16.39.42:617][ 39]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Divider_A.SM_Win_Divider_A
+[2023.09.04-16.39.42:620][ 39]LogStaticMesh: Display: Building static mesh SM_Crate_A2...
+[2023.09.04-16.39.42:622][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_FramePipe_A.SM_Win_FramePipe_A
+[2023.09.04-16.39.42:622][ 39]LogStaticMesh: Display: Building static mesh SM_Crate_A3...
+[2023.09.04-16.39.42:623][ 39]LogStaticMesh: Display: Building static mesh SM_Crate_A...
+[2023.09.04-16.39.42:626][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_FramePipe_C.SM_Win_FramePipe_C
+[2023.09.04-16.39.42:626][ 39]LogStaticMesh: Display: Building static mesh SM_DoorwayWire_A...
+[2023.09.04-16.39.42:628][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_A_Buffer...
+[2023.09.04-16.39.42:630][ 39]LogStaticMesh: Display: Building static mesh SM_EnergyCore_A...
+[2023.09.04-16.39.42:631][ 39]LogStaticMesh: Display: Building static mesh SM_FloorWire_A...
+[2023.09.04-16.39.42:639][ 39]LogStaticMesh: Built static mesh [0.11s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_FloorBuffer_A.SM_Win_FloorBuffer_A
+[2023.09.04-16.39.42:641][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Ceiling_Main...
+[2023.09.04-16.39.42:643][ 39]LogStaticMesh: Built static mesh [0.11s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Divider_B.SM_Win_Divider_B
+[2023.09.04-16.39.42:644][ 39]LogStaticMesh: Built static mesh [0.12s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_CeilingBrace.SM_Win_CeilingBrace
+[2023.09.04-16.39.42:648][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Crate_A2.SM_Crate_A2
+[2023.09.04-16.39.42:649][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Door_L...
+[2023.09.04-16.39.42:649][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_DoorPipes...
+[2023.09.04-16.39.42:649][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Doorway_L...
+[2023.09.04-16.39.42:650][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Ceiling_A_Buffer.SM_Ceiling_A_Buffer
+[2023.09.04-16.39.42:652][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Doorway_L_B...
+[2023.09.04-16.39.42:653][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Floor_Main_B...
+[2023.09.04-16.39.42:653][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Crate_A.SM_Crate_A
+[2023.09.04-16.39.42:654][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Doorway_Panel...
+[2023.09.04-16.39.42:656][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Crate_A3.SM_Crate_A3
+[2023.09.04-16.39.42:658][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Floor_Sec_D...
+[2023.09.04-16.39.42:662][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Doorway_Panel.SM_Hall_Doorway_Panel
+[2023.09.04-16.39.42:662][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_FloorBuffer...
+[2023.09.04-16.39.42:664][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_FloorBuffer_B...
+[2023.09.04-16.39.42:665][ 39]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Frame_A.SM_Win_Frame_A
+[2023.09.04-16.39.42:671][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_FloorEdge...
+[2023.09.04-16.39.42:676][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_PanelLow_A.SM_Win_PanelLow_A
+[2023.09.04-16.39.42:680][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Floor_Main_B.SM_Hall_Floor_Main_B
+[2023.09.04-16.39.42:684][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_FloorEdge.SM_Hall_FloorEdge
+[2023.09.04-16.39.42:685][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Pipe_Handle...
+[2023.09.04-16.39.42:689][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Pipes_Ceiling...
+[2023.09.04-16.39.42:691][ 39]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_FloorWire_A.SM_FloorWire_A
+[2023.09.04-16.39.42:705][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Light_Square...
+[2023.09.04-16.39.42:710][ 39]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Doorway_L_B.SM_Hall_Doorway_L_B
+[2023.09.04-16.39.42:711][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Pipes_Long...
+[2023.09.04-16.39.42:712][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Pipes_Ceiling.SM_Hall_Pipes_Ceiling
+[2023.09.04-16.39.42:714][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_FloorBuffer_B.SM_Hall_FloorBuffer_B
+[2023.09.04-16.39.42:716][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Pipes_Thick...
+[2023.09.04-16.39.42:718][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Vent_A...
+[2023.09.04-16.39.42:721][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Pipe_Handle.SM_Hall_Pipe_Handle
+[2023.09.04-16.39.42:723][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Light_Square.SM_Hall_Light_Square
+[2023.09.04-16.39.42:723][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Wall_A...
+[2023.09.04-16.39.42:725][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Wall_B...
+[2023.09.04-16.39.42:725][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Wall_C...
+[2023.09.04-16.39.42:727][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_FloorBuffer.SM_Hall_FloorBuffer
+[2023.09.04-16.39.42:735][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_WallBuffer...
+[2023.09.04-16.39.42:735][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Pipes_Thick.SM_Hall_Pipes_Thick
+[2023.09.04-16.39.42:735][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_A.SM_Hall_Wall_A
+[2023.09.04-16.39.42:736][ 39]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Door_L.SM_Hall_Door_L
+[2023.09.04-16.39.42:737][ 39]LogStaticMesh: Built static mesh [0.13s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Post_A.SM_Win_Post_A
+[2023.09.04-16.39.42:740][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Pipes_Long.SM_Hall_Pipes_Long
+[2023.09.04-16.39.42:745][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_WDetails_A...
+[2023.09.04-16.39.42:745][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Win_Ceiling...
+[2023.09.04-16.39.42:751][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_WallBuffer.SM_Hall_WallBuffer
+[2023.09.04-16.39.42:752][ 39]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Floor_Sec_D.SM_Hall_Floor_Sec_D
+[2023.09.04-16.39.42:752][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Win_Rails_A...
+[2023.09.04-16.39.42:753][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Vent_A.SM_Hall_Vent_A
+[2023.09.04-16.39.42:754][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Win_Rails_B...
+[2023.09.04-16.39.42:754][ 39]LogStaticMesh: Built static mesh [0.12s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Ceiling_Main.SM_Hall_Ceiling_Main
+[2023.09.04-16.39.42:756][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Window_A...
+[2023.09.04-16.39.42:757][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Win_Ceiling.SM_Hall_Win_Ceiling
+[2023.09.04-16.39.42:760][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Wires_A...
+[2023.09.04-16.39.42:768][ 39]LogStaticMesh: Built static mesh [0.14s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_EnergyCore_A.SM_EnergyCore_A
+[2023.09.04-16.39.42:768][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Win_Rails_B.SM_Hall_Win_Rails_B
+[2023.09.04-16.39.42:771][ 39]LogStaticMesh: Display: Building static mesh SM_Light_A...
+[2023.09.04-16.39.42:774][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_C.SM_Hall_Wall_C
+[2023.09.04-16.39.42:779][ 39]LogStaticMesh: Display: Building static mesh SM_Light_B...
+[2023.09.04-16.39.42:782][ 39]LogStaticMesh: Built static mesh [0.16s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_DoorwayWire_A.SM_DoorwayWire_A
+[2023.09.04-16.39.42:783][ 39]LogStaticMesh: Display: Building static mesh SM_Pipes_GRP_B...
+[2023.09.04-16.39.42:784][ 39]LogStaticMesh: Display: Building static mesh SM_Pipes_GRP_A...
+[2023.09.04-16.39.42:784][ 39]LogStaticMesh: Built static mesh [0.13s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Doorway_L.SM_Hall_Doorway_L
+[2023.09.04-16.39.42:789][ 39]LogStaticMesh: Built static mesh [0.39s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Pipes_Doorway.SM_Pipes_Doorway
+[2023.09.04-16.39.42:793][ 39]LogStaticMesh: Built static mesh [0.14s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_DoorPipes.SM_Hall_DoorPipes
+[2023.09.04-16.39.42:796][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Pipes_GRP_B.SM_Pipes_GRP_B
+[2023.09.04-16.39.42:796][ 39]LogStaticMesh: Display: Building static mesh SM_Pipes_GRP_C...
+[2023.09.04-16.39.42:796][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Win_Rails_A.SM_Hall_Win_Rails_A
+[2023.09.04-16.39.42:799][ 39]LogStaticMesh: Display: Building static mesh SM_Cave_Rock_Large_01a...
+[2023.09.04-16.39.42:800][ 39]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Window_A.SM_Hall_Window_A
+[2023.09.04-16.39.42:801][ 39]LogStaticMesh: Built static mesh [0.33s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Win_Ceiling_B.SM_Win_Ceiling_B
+[2023.09.04-16.39.42:803][ 39]LogStaticMesh: Display: Building static mesh SM_IceChunks_02...
+[2023.09.04-16.39.42:808][ 39]LogStaticMesh: Display: Building static mesh SM_Cave_Rock_Med_01a...
+[2023.09.04-16.39.42:809][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Pipes_GRP_A.SM_Pipes_GRP_A
+[2023.09.04-16.39.42:809][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Win_Floor_A...
+[2023.09.04-16.39.42:810][ 39]LogStaticMesh: Display: Building static mesh SM_Hall_Wires_B...
+[2023.09.04-16.39.42:811][ 39]LogStaticMesh: Built static mesh [0.89s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Floor_Center_A3.SM_Floor_Center_A3
+[2023.09.04-16.39.42:815][ 39]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Light_A.SM_Light_A
+[2023.09.04-16.39.42:815][ 39]LogStaticMesh: Display: Building static mesh SM_IceChunks_01...
+[2023.09.04-16.39.42:817][ 39]LogStaticMesh: Display: Building static mesh SM_Cliff_01...
+[2023.09.04-16.39.42:819][ 39]LogStaticMesh: Display: Building static mesh SM_Vent_A2...
+[2023.09.04-16.39.42:820][ 39]LogStaticMesh: Display: Building static mesh SM_FireSprinkler...
+[2023.09.04-16.39.42:820][ 39]LogStaticMesh: Display: Building static mesh SM_SmkDetector...
+[2023.09.04-16.39.42:824][ 39]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_WDetails_A.SM_Hall_WDetails_A
+[2023.09.04-16.39.42:826][ 39]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_A/Meshes/SM_Cave_Rock_Med_01a.SM_Cave_Rock_Med_01a
+[2023.09.04-16.39.42:830][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Pipes_GRP_C.SM_Pipes_GRP_C
+[2023.09.04-16.39.42:830][ 39]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wires_A.SM_Hall_Wires_A
+[2023.09.04-16.39.42:831][ 39]LogStaticMesh: Built static mesh [0.11s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wall_B.SM_Hall_Wall_B
+[2023.09.04-16.39.42:831][ 39]LogStaticMesh: Display: Building static mesh SM_FloorDiv_A...
+[2023.09.04-16.39.42:832][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_B_Glass...
+[2023.09.04-16.39.42:833][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Meshes/SM_IceChunks_02.SM_IceChunks_02
+[2023.09.04-16.39.42:836][ 39]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Win_Floor_A.SM_Hall_Win_Floor_A
+[2023.09.04-16.39.42:839][ 39]LogStaticMesh: Display: Building static mesh SM_Shelf_A_v3...
+[2023.09.04-16.39.42:839][ 39]LogStaticMesh: Display: Building static mesh SM_WallDiv_A...
+[2023.09.04-16.39.42:839][ 39]LogStaticMesh: Display: Building static mesh SM_Ceiling_Div_A...
+[2023.09.04-16.39.42:841][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_B...
+[2023.09.04-16.39.42:841][ 39]LogStaticMesh: Display: Building static mesh SM_Laptop_Closed...
+[2023.09.04-16.39.42:841][ 39]LogStaticMesh: Display: Building static mesh SM_Wall_A_Glass...
+[2023.09.04-16.39.42:843][ 39]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_FloorDiv_A.SM_FloorDiv_A
+[2023.09.04-16.39.42:846][ 39]LogStaticMesh: Display: Building static mesh SM_WirelessB_Off...
+[2023.09.04-16.39.42:857][ 40]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Light_B.SM_Light_B
+[2023.09.04-16.39.42:867][ 40]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_WallDiv_A.SM_WallDiv_A
+[2023.09.04-16.39.42:867][ 40]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Wall_B.SM_Wall_B
+[2023.09.04-16.39.42:868][ 40]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Meshes/SM_Cliff_01.SM_Cliff_01
+[2023.09.04-16.39.42:869][ 40]LogStaticMesh: Display: Building static mesh SM_MobileStorage...
+[2023.09.04-16.39.42:870][ 40]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Ceiling_Div_A.SM_Ceiling_Div_A
+[2023.09.04-16.39.42:871][ 40]LogStaticMesh: Display: Building static mesh SM_AccessCard...
+[2023.09.04-16.39.42:873][ 40]LogStaticMesh: Display: Building static mesh SM_Stool...
+[2023.09.04-16.39.42:874][ 40]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_FireSprinkler.SM_FireSprinkler
+[2023.09.04-16.39.42:875][ 40]LogStaticMesh: Display: Building static mesh SM_CommDevice...
+[2023.09.04-16.39.42:882][ 40]LogStaticMesh: Display: Building static mesh SM_Floor_A...
+[2023.09.04-16.39.42:883][ 40]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_B/Meshes/SM_IceChunks_01.SM_IceChunks_01
+[2023.09.04-16.39.42:883][ 40]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_AccessCard.SM_AccessCard
+[2023.09.04-16.39.42:883][ 40]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Wall_B_Glass.SM_Wall_B_Glass
+[2023.09.04-16.39.42:884][ 40]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiHallways/Meshes/SM_Hall_Wires_B.SM_Hall_Wires_B
+[2023.09.04-16.39.42:886][ 40]LogStaticMesh: Display: Building static mesh SM_Coaster...
+[2023.09.04-16.39.42:886][ 40]LogStaticMesh: Display: Building static mesh SM_GlassCup...
+[2023.09.04-16.39.42:888][ 40]LogStaticMesh: Display: Building static mesh SM_GlassDoorway...
+[2023.09.04-16.39.42:890][ 40]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Floor_A.SM_Floor_A
+[2023.09.04-16.39.42:891][ 40]LogStaticMesh: Display: Building static mesh SM_Wall_A...
+[2023.09.04-16.39.42:896][ 40]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Vent_A2.SM_Vent_A2
+[2023.09.04-16.39.42:899][ 40]LogStaticMesh: Display: Building static mesh SM_Ceiling_A...
+[2023.09.04-16.39.42:901][ 40]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_SmkDetector.SM_SmkDetector
+[2023.09.04-16.39.42:909][ 40]LogStaticMesh: Display: Building static mesh SM_GlassDoor_B...
+[2023.09.04-16.39.42:917][ 40]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Wall_A.SM_Wall_A
+[2023.09.04-16.39.42:918][ 40]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_GlassCup.SM_GlassCup
+[2023.09.04-16.39.42:920][ 40]LogStaticMesh: Display: Building static mesh SM_Ceiling_Div_B...
+[2023.09.04-16.39.42:921][ 40]LogStaticMesh: Display: Building static mesh SM_CeilingLight...
+[2023.09.04-16.39.42:923][ 40]LogStaticMesh: Built static mesh [0.01s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_GlassDoor_B.SM_GlassDoor_B
+[2023.09.04-16.39.42:923][ 40]LogStaticMesh: Built static mesh [0.04s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Coaster.SM_Coaster
+[2023.09.04-16.39.42:923][ 40]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Shelf_A_v3.SM_Shelf_A_v3
+[2023.09.04-16.39.42:925][ 40]LogStaticMesh: Display: Building static mesh SM_Vent_B...
+[2023.09.04-16.39.42:931][ 40]LogStaticMesh: Display: Building static mesh SM_Ceiling_B...
+[2023.09.04-16.39.42:931][ 40]LogStaticMesh: Display: Building static mesh SM_Laptop...
+[2023.09.04-16.39.42:931][ 40]LogStaticMesh: Display: Building static mesh SM_WirelessB_On...
+[2023.09.04-16.39.42:931][ 40]LogStaticMesh: Display: Building static mesh SM_Keypad...
+[2023.09.04-16.39.42:933][ 40]LogStaticMesh: Built static mesh [0.09s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_WirelessB_Off.SM_WirelessB_Off
+[2023.09.04-16.39.42:933][ 40]LogStaticMesh: Display: Building static mesh SM_CardReader...
+[2023.09.04-16.39.42:936][ 40]LogStaticMesh: Built static mesh [0.89s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Terminal_A.SM_Terminal_A
+[2023.09.04-16.39.42:938][ 40]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Ceiling_Div_B.SM_Ceiling_Div_B
+[2023.09.04-16.39.42:939][ 40]LogStaticMesh: Display: Building static mesh SM_GlassDoor_A...
+[2023.09.04-16.39.42:940][ 40]LogStaticMesh: Display: Building static mesh SM_WasteBin...
+[2023.09.04-16.39.42:950][ 40]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Ceiling_A.SM_Ceiling_A
+[2023.09.04-16.39.42:951][ 40]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_MobileStorage.SM_MobileStorage
+[2023.09.04-16.39.42:953][ 40]LogStaticMesh: Built static mesh [0.03s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Ceiling_B.SM_Ceiling_B
+[2023.09.04-16.39.42:955][ 40]LogStaticMesh: Display: Building static mesh SM_Vent_A...
+[2023.09.04-16.39.42:956][ 40]LogStaticMesh: Display: Building static mesh SM_WallCab_2D...
+[2023.09.04-16.39.42:956][ 40]LogStaticMesh: Built static mesh [0.02s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_GlassDoor_A.SM_GlassDoor_A
+[2023.09.04-16.39.42:959][ 40]LogStaticMesh: Display: Building static mesh SM_WallCab_1D...
+[2023.09.04-16.39.42:964][ 40]LogStaticMesh: Display: Building static mesh SM_TempControl...
+[2023.09.04-16.39.42:986][ 41]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Keypad.SM_Keypad
+[2023.09.04-16.39.42:988][ 41]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_CardReader.SM_CardReader
+[2023.09.04-16.39.42:992][ 41]LogStaticMesh: Display: Building static mesh SM_HScanner_Closed...
+[2023.09.04-16.39.42:992][ 41]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Vent_B.SM_Vent_B
+[2023.09.04-16.39.42:993][ 41]LogStaticMesh: Display: Building static mesh SM_Cabinet_B...
+[2023.09.04-16.39.42:997][ 41]LogStaticMesh: Display: Building static mesh SM_IcePlane...
+[2023.09.04-16.39.43:003][ 41]LogStaticMesh: Built static mesh [0.08s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_WirelessB_On.SM_WirelessB_On
+[2023.09.04-16.39.43:004][ 41]LogStaticMesh: Built static mesh [0.06s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_WasteBin.SM_WasteBin
+[2023.09.04-16.39.43:004][ 41]LogStaticMesh: Built static mesh [0.05s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Vent_A.SM_Vent_A
+[2023.09.04-16.39.43:008][ 41]LogStaticMesh: Display: Building static mesh SM_GDC_Landscape_Peakmesh_01...
+[2023.09.04-16.39.43:019][ 41]LogStaticMesh: Built static mesh [0.18s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Wall_A_Glass.SM_Wall_A_Glass
+[2023.09.04-16.39.43:045][ 41]LogStaticMesh: Built static mesh [0.17s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_CommDevice.SM_CommDevice
+[2023.09.04-16.39.43:066][ 41]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Cabinet_B.SM_Cabinet_B
+[2023.09.04-16.39.43:075][ 41]LogStaticMesh: Built static mesh [0.19s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_GlassDoorway.SM_GlassDoorway
+[2023.09.04-16.39.43:076][ 41]LogStaticMesh: Built static mesh [0.07s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_A/Meshes/SM_GDC_Landscape_Peakmesh_01.SM_GDC_Landscape_Peakmesh_01
+[2023.09.04-16.39.43:080][ 41]LogStaticMesh: Built static mesh [0.21s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Stool.SM_Stool
+[2023.09.04-16.39.43:100][ 42]LogStaticMesh: Built static mesh [0.10s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/NatureMaterials_Ice/Meshes/SM_IcePlane.SM_IcePlane
+[2023.09.04-16.39.43:100][ 42]LogStaticMesh: Built static mesh [0.14s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_WallCab_1D.SM_WallCab_1D
+[2023.09.04-16.39.43:108][ 42]LogStaticMesh: Built static mesh [0.27s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Laptop_Closed.SM_Laptop_Closed
+[2023.09.04-16.39.43:141][ 42]LogStaticMesh: Built static mesh [0.18s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_TempControl.SM_TempControl
+[2023.09.04-16.39.43:162][ 43]LogStaticMesh: Built static mesh [0.17s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_HScanner_Closed.SM_HScanner_Closed
+[2023.09.04-16.39.43:170][ 43]LogStaticMesh: Built static mesh [0.25s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_CeilingLight.SM_CeilingLight
+[2023.09.04-16.39.43:199][ 44]LogStaticMesh: Built static mesh [0.27s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_Laptop.SM_Laptop
+[2023.09.04-16.39.43:202][ 44]LogStaticMesh: Built static mesh [0.25s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularScifiProps/Meshes/SM_WallCab_2D.SM_WallCab_2D
+[2023.09.04-16.39.44:020][ 79]LogStaticMesh: Built static mesh [1.22s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/UE4_Assets/Environment_A/Meshes/SM_Cave_Rock_Large_01a.SM_Cave_Rock_Large_01a
+[2023.09.04-16.39.45:230][177]LogStaticMesh: Built static mesh [3.00s] /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Int/Meshes/SM_Ceiling_A.SM_Ceiling_A
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: ================================================
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Total job queries 280, among them cache hits 6 (2.14%)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Tracking 99 distinct input hashes that result in 83 distinct outputs (83.84%)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: RAM used: 0.87 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Shaders Compiled: 99
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Jobs assigned 111, completed 99 (89.19%)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Average time worker was idle: 275.40 s
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Time job spent in pending queue: average 0.90 s, longest 6.59 s
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Job execution time: average 3.42 s, max 8.03 s
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Job life time (pending + execution): average 4.40 s, max 8.14
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.02 s
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Jobs were issued in 76 batches (only local compilation was used), average 1.46 jobs/batch
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Average processing rate: 6.18 jobs/sec
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Total thread time: 92.98 s
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Total thread preprocess time: 4.18 s
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Percentage time preprocessing: 4.49%
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Effective parallelization: 5.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.67 sec, max 1.67 sec, min 1.67 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.63 sec, max 1.63 sec, min 1.63 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.49 sec, max 2.01 sec, min 0.94 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 27.32% of total time (compiled   17 times, average 1.49 sec, max 2.01 sec, min 0.94 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.73% of total time (compiled   10 times, average 0.90 sec, max 1.12 sec, min 0.62 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.86% of total time (compiled   10 times, average 0.82 sec, max 0.99 sec, min 0.56 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.06% of total time (compiled    8 times, average 0.70 sec, max 0.89 sec, min 0.51 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.18% of total time (compiled    8 times, average 0.49 sec, max 0.73 sec, min 0.34 sec)
+[2023.09.04-16.39.47:305][310]LogShaderCompilers: Display: ================================================
+[2023.09.04-16.40.01:281][ 73]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x119 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 56% occupied, 1380 triangles, SM_Cliff_01
+[2023.09.04-16.40.46:912][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.09.04-16.40.46:916][806]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Map1
+[2023.09.04-16.40.46:916][806]Cmd: MAP LOAD FILE="../../../../../Unreal Games/Shooter/Shooter/ShooterGame/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.04-16.40.46:916][806]LightingResults: New page: Lighting Build
+[2023.09.04-16.40.46:916][806]LoadErrors: New page: Loading map: Map1.umap
+[2023.09.04-16.40.46:974][806]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.04-16.40.46:974][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.04-16.40.46:976][806]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2023.09.04-16.40.46:976][806]MapCheck: New page: Map Check
+[2023.09.04-16.40.46:976][806]LightingResults: New page: Lighting Build
+[2023.09.04-16.40.46:983][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.04-16.40.47:002][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.09.04-16.40.47:009][806]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2023.09.04-16.40.47:017][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.04-16.40.47:081][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.09.04-16.40.47:089][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.09.04-16.40.47:400][806]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map1'.
+[2023.09.04-16.40.47:400][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.04-16.40.47:400][806]LogAIModule: Creating AISystem for world Map1
+[2023.09.04-16.40.47:693][806]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.04-16.40.47:867][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.09.04-16.40.47:879][806]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.04-16.40.47:879][806]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.502ms to complete.
+[2023.09.04-16.40.47:879][806]LogFileHelpers: Loading map 'Map1' took 0.963
+[2023.09.04-16.40.48:237][806]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.09.04-16.40.49:199][808]LogSlate: Took 0.000824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.04-16.40.53:751][867]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.09.04-16.40.53:751][867]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.09.04-16.44.53:738][373]Cmd: SELECT NONE
+[2023.09.04-16.44.57:748][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.44.57:829][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.04-16.44.57:839][509]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.008366 seconds
+[2023.09.04-16.44.58:099][509]LogSerialization: UsePackageTrailer: 'true'
+[2023.09.04-16.44.59:406][509]LogSavePackage: Moving output files for package: /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1
+[2023.09.04-16.44.59:407][509]LogSavePackage: Moving '../../../../../Unreal Games/Shooter/Shooter/ShooterGame/Saved/Map16DC9025744DF3CA17711639663447BBC.tmp' to '../../../../../Unreal Games/Shooter/Shooter/ShooterGame/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.umap'
+[2023.09.04-16.44.59:440][509]LogFileHelpers: No new changes to save!
+[2023.09.04-16.44.59:440][509]LogFileHelpers: Saving map 'Map1' took 1.623
+[2023.09.04-16.44.59:448][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.69 sec
+[2023.09.04-16.44.59:454][509]AssetCheck: New page: Asset Save: Map1
+[2023.09.04-16.44.59:454][509]LogContentValidation: Display: Validating /Script/Engine.World /Game/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.Map1
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9BCD02F7-4FD5-A487-8A77-3EA6B68D7253%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=e31552bb4e4f112b7d13eca6025c7e35%7Ccb46da21477f43b38d4e2accbbe4ddca%7Cfdc69a50-0d0f-4731-b9e4-e5e2e3c2bf36&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: libcurl info message cache 0 (Found bundle for host: 0xbc176160000 [serially])
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.156.40.32) port 443 (#0))
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: 00000BC204C44100: libcurl info message cache 7 (Closing connection 0)
+[2023.09.04-16.54.20:769][224]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9BCD02F7-4FD5-A487-8A77-3EA6B68D7253%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=e31552bb4e4f112b7d13eca6025c7e35%7Ccb46da21477f43b38d4e2accbbe4ddca%7Cfdc69a50-0d0f-4731-b9e4-e5e2e3c2bf36&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.04-16.56.01:300][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.04-16.56.01:303][573]LogStall: Shutdown...
+[2023.09.04-16.56.01:314][573]LogStall: Shutdown complete.
+[2023.09.04-16.56.01:387][573]LogSlate: Window 'ShooterGame - Unreal Editor' being destroyed
+[2023.09.04-16.56.01:585][574]Cmd: QUIT_EDITOR
+[2023.09.04-16.56.01:585][574]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.09.04-16.56.01:595][574]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.09.04-16.56.01:595][574]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.09.04-16.56.01:596][574]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.09.04-16.56.01:630][574]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2023.09.04-16.56.01:632][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.04-16.56.01:639][574]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.09.04-16.56.01:647][574]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.09.04-16.56.01:751][574]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.09.04-16.56.01:751][574]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.09.04-16.56.01:751][574]LogAudio: Display: Audio Device unregistered from world 'Map1'.
+[2023.09.04-16.56.01:755][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.04-16.56.01:759][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.04-16.56.01:773][574]LogAudio: Display: Audio Device Manager Shutdown
+[2023.09.04-16.56.01:785][574]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.09.04-16.56.01:785][574]LogExit: Preparing to exit.
+[2023.09.04-16.56.01:826][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.09.04-16.56.02:585][574]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.04-16.56.02:585][574]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.04-16.56.02:585][574]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.04-16.56.02:585][574]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.04-16.56.02:585][574]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.04-16.56.02:585][574]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.04-16.56.02:585][574]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.04-16.56.02:585][574]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.09.04-16.56.02:775][574]LogExit: Editor shut down
+[2023.09.04-16.56.02:781][574]LogExit: Transaction tracking system shut down
+[2023.09.04-16.56.02:792][574]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.09.04-16.56.03:161][574]LogExit: Object subsystem successfully closed.
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: ================================================
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Total job queries 405, among them cache hits 53 (13.09%)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Tracking 325 distinct input hashes that result in 250 distinct outputs (76.92%)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: RAM used: 2.42 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.15%
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Shaders Compiled: 325
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Jobs assigned 325, completed 325 (100.00%)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Average time worker was idle: 65.37 s
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Time job spent in pending queue: average 5.29 s, longest 16.60 s
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Job execution time: average 1.93 s, max 8.03 s
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Job life time (pending + execution): average 7.23 s, max 17.85
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 39.89 s
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Jobs were issued in 290 batches (only local compilation was used), average 1.12 jobs/batch
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Average processing rate: 8.15 jobs/sec
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Total thread time: 326.36 s
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Total thread preprocess time: 17.00 s
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Percentage time preprocessing: 5.21%
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Effective parallelization: 8.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 2.45 sec, max 5.50 sec, min 1.37 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    5 times, average 2.24 sec, max 5.62 sec, min 1.35 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.67 sec, max 1.67 sec, min 1.67 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.63 sec, max 1.63 sec, min 1.63 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.83% of total time (compiled   34 times, average 0.94 sec, max 1.40 sec, min 0.51 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 8.90% of total time (compiled   25 times, average 1.16 sec, max 2.03 sec, min 0.92 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 8.03% of total time (compiled   21 times, average 1.25 sec, max 2.83 sec, min 0.87 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.78% of total time (compiled   17 times, average 1.49 sec, max 2.01 sec, min 0.94 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 7.76% of total time (compiled   20 times, average 1.27 sec, max 2.61 sec, min 0.95 sec)
+[2023.09.04-16.56.03:173][574]LogShaderCompilers: Display: ================================================
+[2023.09.04-16.56.03:193][574]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.09.04-16.56.03:224][574]LogVirtualization: UE::Virtualization was shutdown
+[2023.09.04-16.56.03:312][574]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (991)
+[2023.09.04-16.56.03:312][574]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (989)
+[2023.09.04-16.56.03:312][574]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (987)
+[2023.09.04-16.56.03:313][574]LogModuleManager: Shutting down and abandoning module AddContentDialog (985)
+[2023.09.04-16.56.03:315][574]LogModuleManager: Shutting down and abandoning module WidgetCarousel (984)
+[2023.09.04-16.56.03:316][574]LogModuleManager: Shutting down and abandoning module SubobjectEditor (981)
+[2023.09.04-16.56.03:316][574]LogModuleManager: Shutting down and abandoning module SceneOutliner (979)
+[2023.09.04-16.56.03:316][574]LogModuleManager: Shutting down and abandoning module StatusBar (977)
+[2023.09.04-16.56.03:316][574]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (975)
+[2023.09.04-16.56.03:316][574]LogModuleManager: Shutting down and abandoning module StatsViewer (973)
+[2023.09.04-16.56.03:316][574]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (971)
+[2023.09.04-16.56.03:316][574]LogModuleManager: Shutting down and abandoning module AutomationWorker (969)
+[2023.09.04-16.56.03:317][574]LogModuleManager: Shutting down and abandoning module PlanarCut (967)
+[2023.09.04-16.56.03:317][574]LogModuleManager: Shutting down and abandoning module CharacterAI (965)
+[2023.09.04-16.56.03:318][574]LogModuleManager: Shutting down and abandoning module WaveTableEditor (963)
+[2023.09.04-16.56.03:319][574]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (961)
+[2023.09.04-16.56.03:319][574]LogModuleManager: Shutting down and abandoning module GooglePADEditor (959)
+[2023.09.04-16.56.03:319][574]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (957)
+[2023.09.04-16.56.03:319][574]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (955)
+[2023.09.04-16.56.03:319][574]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (953)
+[2023.09.04-16.56.03:319][574]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (951)
+[2023.09.04-16.56.03:320][574]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (949)
+[2023.09.04-16.56.03:320][574]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (947)
+[2023.09.04-16.56.03:320][574]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (945)
+[2023.09.04-16.56.03:320][574]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (943)
+[2023.09.04-16.56.03:320][574]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (941)
+[2023.09.04-16.56.03:320][574]LogModuleManager: Shutting down and abandoning module WebMMedia (939)
+[2023.09.04-16.56.03:320][574]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (937)
+[2023.09.04-16.56.03:321][574]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (935)
+[2023.09.04-16.56.03:323][574]LogModuleManager: Shutting down and abandoning module SequenceRecorder (934)
+[2023.09.04-16.56.03:323][574]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (931)
+[2023.09.04-16.56.03:323][574]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (929)
+[2023.09.04-16.56.03:323][574]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (927)
+[2023.09.04-16.56.03:323][574]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (925)
+[2023.09.04-16.56.03:323][574]LogModuleManager: Shutting down and abandoning module TextureAlignMode (923)
+[2023.09.04-16.56.03:323][574]LogModuleManager: Shutting down and abandoning module BspMode (921)
+[2023.09.04-16.56.03:323][574]LogModuleManager: Shutting down and abandoning module GeometryMode (919)
+[2023.09.04-16.56.03:324][574]LogModuleManager: Shutting down and abandoning module IKRigEditor (917)
+[2023.09.04-16.56.03:326][574]LogModuleManager: Shutting down and abandoning module ControlRigEditor (915)
+[2023.09.04-16.56.03:329][574]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (913)
+[2023.09.04-16.56.03:329][574]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (911)
+[2023.09.04-16.56.03:331][574]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (909)
+[2023.09.04-16.56.03:331][574]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (907)
+[2023.09.04-16.56.03:332][574]LogModuleManager: Shutting down and abandoning module SmartSnapping (905)
+[2023.09.04-16.56.03:332][574]LogModuleManager: Shutting down and abandoning module SessionServices (903)
+[2023.09.04-16.56.03:335][574]LogModuleManager: Shutting down and abandoning module MeshPaint (901)
+[2023.09.04-16.56.03:335][574]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (899)
+[2023.09.04-16.56.03:336][574]LogModuleManager: Shutting down and abandoning module PlacementMode (898)
+[2023.09.04-16.56.03:336][574]LogModuleManager: Shutting down and abandoning module FoliageEdit (895)
+[2023.09.04-16.56.03:337][574]LogModuleManager: Shutting down and abandoning module LandscapeEditor (893)
+[2023.09.04-16.56.03:340][574]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (891)
+[2023.09.04-16.56.03:340][574]LogModuleManager: Shutting down and abandoning module ActorPickerMode (889)
+[2023.09.04-16.56.03:340][574]LogModuleManager: Shutting down and abandoning module ViewportSnapping (887)
+[2023.09.04-16.56.03:340][574]LogModuleManager: Shutting down and abandoning module ViewportInteraction (885)
+[2023.09.04-16.56.03:340][574]LogModuleManager: Shutting down and abandoning module ClothPainter (883)
+[2023.09.04-16.56.03:340][574]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (882)
+[2023.09.04-16.56.03:342][574]LogModuleManager: Shutting down and abandoning module LogVisualizer (879)
+[2023.09.04-16.56.03:343][574]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (877)
+[2023.09.04-16.56.03:343][574]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (875)
+[2023.09.04-16.56.03:343][574]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (874)
+[2023.09.04-16.56.03:344][574]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (872)
+[2023.09.04-16.56.04:045][574]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (869)
+[2023.09.04-16.56.04:045][574]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (867)
+[2023.09.04-16.56.04:045][574]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (865)
+[2023.09.04-16.56.04:045][574]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (863)
+[2023.09.04-16.56.04:045][574]LogModuleManager: Shutting down and abandoning module AnimationSettings (861)
+[2023.09.04-16.56.04:045][574]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (859)
+[2023.09.04-16.56.04:050][574]LogModuleManager: Shutting down and abandoning module CSVtoSVG (857)
+[2023.09.04-16.56.04:050][574]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (855)
+[2023.09.04-16.56.04:051][574]LogModuleManager: Shutting down and abandoning module EditorConfig (853)
+[2023.09.04-16.56.04:051][574]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (851)
+[2023.09.04-16.56.04:051][574]LogModuleManager: Shutting down and abandoning module EditorFramework (849)
+[2023.09.04-16.56.04:051][574]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (847)
+[2023.09.04-16.56.04:053][574]LogModuleManager: Shutting down and abandoning module TraceInsights (845)
+[2023.09.04-16.56.04:058][574]MemoryProfiler: Shutdown
+[2023.09.04-16.56.04:059][574]NetworkingProfiler: Shutdown
+[2023.09.04-16.56.04:059][574]LoadingProfiler: Shutdown
+[2023.09.04-16.56.04:059][574]TimingProfiler: Shutdown
+[2023.09.04-16.56.04:063][574]LogModuleManager: Shutting down and abandoning module TraceServices (844)
+[2023.09.04-16.56.04:065][574]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (841)
+[2023.09.04-16.56.04:065][574]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (840)
+[2023.09.04-16.56.04:065][574]LogModuleManager: Shutting down and abandoning module InputBindingEditor (837)
+[2023.09.04-16.56.04:065][574]LogModuleManager: Shutting down and abandoning module MergeActors (835)
+[2023.09.04-16.56.04:066][574]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (833)
+[2023.09.04-16.56.04:066][574]LogModuleManager: Shutting down and abandoning module LocalizationService (832)
+[2023.09.04-16.56.04:067][574]LogModuleManager: Shutting down and abandoning module HardwareTargeting (829)
+[2023.09.04-16.56.04:067][574]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (827)
+[2023.09.04-16.56.04:067][574]LogModuleManager: Shutting down and abandoning module UndoHistory (825)
+[2023.09.04-16.56.04:067][574]LogModuleManager: Shutting down and abandoning module XmlParser (823)
+[2023.09.04-16.56.04:067][574]LogModuleManager: Shutting down and abandoning module Blutility (821)
+[2023.09.04-16.56.04:068][574]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (819)
+[2023.09.04-16.56.04:068][574]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (818)
+[2023.09.04-16.56.04:068][574]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (815)
+[2023.09.04-16.56.04:068][574]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (814)
+[2023.09.04-16.56.04:068][574]LogModuleManager: Shutting down and abandoning module SettingsEditor (811)
+[2023.09.04-16.56.04:068][574]LogModuleManager: Shutting down and abandoning module ProjectLauncher (809)
+[2023.09.04-16.56.04:069][574]LogModuleManager: Shutting down and abandoning module SessionFrontend (807)
+[2023.09.04-16.56.04:069][574]LogModuleManager: Shutting down and abandoning module ProfilerClient (805)
+[2023.09.04-16.56.04:069][574]LogModuleManager: Shutting down and abandoning module DeviceManager (803)
+[2023.09.04-16.56.04:070][574]LogModuleManager: Shutting down and abandoning module AutomationController (801)
+[2023.09.04-16.56.04:070][574]LogModuleManager: Shutting down and abandoning module AutomationWindow (799)
+[2023.09.04-16.56.04:072][574]LogModuleManager: Shutting down and abandoning module Layers (797)
+[2023.09.04-16.56.04:073][574]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (795)
+[2023.09.04-16.56.04:073][574]LogModuleManager: Shutting down and abandoning module DetailCustomizations (793)
+[2023.09.04-16.56.04:073][574]LogModuleManager: Shutting down and abandoning module PackagesDialog (791)
+[2023.09.04-16.56.04:074][574]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (789)
+[2023.09.04-16.56.04:075][574]LogModuleManager: Shutting down and abandoning module Persona (787)
+[2023.09.04-16.56.04:077][574]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (786)
+[2023.09.04-16.56.04:077][574]LogModuleManager: Shutting down and abandoning module AnimGraph (784)
+[2023.09.04-16.56.04:077][574]LogModuleManager: Shutting down and abandoning module Kismet (781)
+[2023.09.04-16.56.04:081][574]LogModuleManager: Shutting down and abandoning module KismetWidgets (780)
+[2023.09.04-16.56.04:081][574]LogModuleManager: Shutting down and abandoning module GraphEditor (777)
+[2023.09.04-16.56.04:083][574]LogModuleManager: Shutting down and abandoning module StructViewer (775)
+[2023.09.04-16.56.04:083][574]LogModuleManager: Shutting down and abandoning module ClassViewer (773)
+[2023.09.04-16.56.04:083][574]LogModuleManager: Shutting down and abandoning module NaniteTools (771)
+[2023.09.04-16.56.04:083][574]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (769)
+[2023.09.04-16.56.04:084][574]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (767)
+[2023.09.04-16.56.04:084][574]LogModuleManager: Shutting down and abandoning module SourceControlWindows (765)
+[2023.09.04-16.56.04:084][574]LogModuleManager: Shutting down and abandoning module OutputLog (763)
+[2023.09.04-16.56.04:085][574]LogModuleManager: Shutting down and abandoning module Documentation (761)
+[2023.09.04-16.56.04:085][574]LogModuleManager: Shutting down and abandoning module LiveCoding (759)
+[2023.09.04-16.56.04:100][574]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (757)
+[2023.09.04-16.56.04:100][574]LogModuleManager: Shutting down and abandoning module MovieScene (755)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (753)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (751)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (749)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module AudioMixer (748)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module AudioMixerCore (747)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module LauncherPlatform (743)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module AnalyticsET (741)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module PortalServices (739)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module PortalRpc (737)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module MessagingRpc (735)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module AIModule (733)
+[2023.09.04-16.56.04:101][574]LogModuleManager: Shutting down and abandoning module GameplayDebugger (732)
+[2023.09.04-16.56.04:102][574]LogModuleManager: Shutting down and abandoning module AITestSuite (730)
+[2023.09.04-16.56.04:102][574]LogModuleManager: Shutting down and abandoning module NavigationSystem (728)
+[2023.09.04-16.56.04:102][574]LogModuleManager: Shutting down and abandoning module DataLayerEditor (725)
+[2023.09.04-16.56.04:102][574]LogModuleManager: Shutting down and abandoning module EditorWidgets (724)
+[2023.09.04-16.56.04:102][574]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (721)
+[2023.09.04-16.56.04:102][574]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (719)
+[2023.09.04-16.56.04:102][574]LogModuleManager: Shutting down and abandoning module TypedElementFramework (717)
+[2023.09.04-16.56.04:102][574]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (715)
+[2023.09.04-16.56.04:102][574]LogModuleManager: Shutting down and abandoning module ProfilerService (713)
+[2023.09.04-16.56.04:319][574]LogModuleManager: Shutting down and abandoning module TaskGraph (711)
+[2023.09.04-16.56.04:321][574]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (709)
+[2023.09.04-16.56.04:321][574]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (707)
+[2023.09.04-16.56.04:321][574]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (705)
+[2023.09.04-16.56.04:322][574]LogModuleManager: Shutting down and abandoning module TakesCore (703)
+[2023.09.04-16.56.04:322][574]LogModuleManager: Shutting down and abandoning module MegascansPlugin (701)
+[2023.09.04-16.56.04:322][574]LogModuleManager: Shutting down and abandoning module Bridge (699)
+[2023.09.04-16.56.04:323][574]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (697)
+[2023.09.04-16.56.04:323][574]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (695)
+[2023.09.04-16.56.04:323][574]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (693)
+[2023.09.04-16.56.04:323][574]LogModuleManager: Shutting down and abandoning module CollectionManager (692)
+[2023.09.04-16.56.04:323][574]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (689)
+[2023.09.04-16.56.04:324][574]LogModuleManager: Shutting down and abandoning module LightMixer (687)
+[2023.09.04-16.56.04:324][574]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (685)
+[2023.09.04-16.56.04:324][574]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (683)
+[2023.09.04-16.56.04:324][574]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (681)
+[2023.09.04-16.56.04:324][574]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (679)
+[2023.09.04-16.56.04:325][574]LogModuleManager: Shutting down and abandoning module InterchangeEditor (677)
+[2023.09.04-16.56.04:325][574]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (675)
+[2023.09.04-16.56.04:325][574]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (673)
+[2023.09.04-16.56.04:325][574]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (671)
+[2023.09.04-16.56.04:326][574]LogModuleManager: Shutting down and abandoning module InterchangePipelines (669)
+[2023.09.04-16.56.04:326][574]LogModuleManager: Shutting down and abandoning module InterchangeExport (667)
+[2023.09.04-16.56.04:326][574]LogModuleManager: Shutting down and abandoning module InterchangeMessages (665)
+[2023.09.04-16.56.04:326][574]LogModuleManager: Shutting down and abandoning module InterchangeImport (663)
+[2023.09.04-16.56.04:326][574]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (661)
+[2023.09.04-16.56.04:326][574]LogModuleManager: Shutting down and abandoning module InterchangeNodes (659)
+[2023.09.04-16.56.04:326][574]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (657)
+[2023.09.04-16.56.04:327][574]LogModuleManager: Shutting down and abandoning module UVEditorTools (655)
+[2023.09.04-16.56.04:327][574]LogModuleManager: Shutting down and abandoning module UVEditor (653)
+[2023.09.04-16.56.04:328][574]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (651)
+[2023.09.04-16.56.04:328][574]LogOpenImageDenoise: OIDN shutting down
+[2023.09.04-16.56.04:328][574]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (649)
+[2023.09.04-16.56.04:328][574]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (647)
+[2023.09.04-16.56.04:330][574]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (645)
+[2023.09.04-16.56.04:330][574]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (643)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module MeshLODToolset (641)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module Iris (639)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (637)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (635)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (633)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (631)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (629)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (628)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (626)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (623)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module DataflowNodes (621)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module DataflowEditor (619)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (617)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (615)
+[2023.09.04-16.56.04:331][574]LogModuleManager: Shutting down and abandoning module ChaosNiagara (613)
+[2023.09.04-16.56.04:332][574]LogModuleManager: Shutting down and abandoning module FractureEditor (611)
+[2023.09.04-16.56.04:333][574]LogModuleManager: Shutting down and abandoning module BackChannel (609)
+[2023.09.04-16.56.04:333][574]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (607)
+[2023.09.04-16.56.04:333][574]LogModuleManager: Shutting down and abandoning module AutomationUtils (605)
+[2023.09.04-16.56.04:333][574]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (603)
+[2023.09.04-16.56.04:335][574]LogModuleManager: Shutting down and abandoning module SynthesisEditor (601)
+[2023.09.04-16.56.04:335][574]LogModuleManager: Shutting down and abandoning module ResonanceAudio (599)
+[2023.09.04-16.56.04:335][574]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (597)
+[2023.09.04-16.56.04:335][574]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (595)
+[2023.09.04-16.56.04:335][574]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (593)
+[2023.09.04-16.56.04:335][574]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (591)
+[2023.09.04-16.56.04:336][574]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (589)
+[2023.09.04-16.56.04:336][574]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (587)
+[2023.09.04-16.56.04:336][574]LogModuleManager: Shutting down and abandoning module ModelingOperators (585)
+[2023.09.04-16.56.04:336][574]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (583)
+[2023.09.04-16.56.04:336][574]LogModuleManager: Shutting down and abandoning module ModelingComponents (581)
+[2023.09.04-16.56.04:336][574]LogModuleManager: Shutting down and abandoning module GeometryFramework (580)
+[2023.09.04-16.56.04:337][574]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (577)
+[2023.09.04-16.56.04:337][574]LogModuleManager: Shutting down and abandoning module MeshModelingTools (575)
+[2023.09.04-16.56.04:337][574]LogModuleManager: Shutting down and abandoning module InputDebugging (573)
+[2023.09.04-16.56.04:337][574]LogModuleManager: Shutting down and abandoning module DynamicMesh (571)
+[2023.09.04-16.56.04:338][574]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (569)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module GooglePAD (567)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module AudioCapture (565)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (564)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module ImgMedia (561)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module AssetTags (559)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (557)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (555)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module AppleImageUtils (553)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module AndroidPermission (551)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (549)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (547)
+[2023.09.04-16.56.04:339][574]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (545)
+[2023.09.04-16.56.04:340][574]LogModuleManager: Shutting down and abandoning module MediaPlate (543)
+[2023.09.04-16.56.04:340][574]LogModuleManager: Shutting down and abandoning module MediaCompositing (541)
+[2023.09.04-16.56.04:340][574]LogModuleManager: Shutting down and abandoning module PluginBrowser (539)
+[2023.09.04-16.56.04:342][574]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (537)
+[2023.09.04-16.56.04:342][574]LogModuleManager: Shutting down and abandoning module VariantManager (533)
+[2023.09.04-16.56.04:344][574]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (531)
+[2023.09.04-16.56.04:345][574]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (529)
+[2023.09.04-16.56.04:345][574]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (527)
+[2023.09.04-16.56.04:345][574]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (525)
+[2023.09.04-16.56.04:346][574]LogModuleManager: Shutting down and abandoning module TakeSequencer (523)
+[2023.09.04-16.56.04:346][574]LogModuleManager: Shutting down and abandoning module TakeMovieScene (521)
+[2023.09.04-16.56.04:346][574]LogModuleManager: Shutting down and abandoning module CurveEditorTools (519)
+[2023.09.04-16.56.04:347][574]LogModuleManager: Shutting down and abandoning module StylusInput (517)
+[2023.09.04-16.56.04:347][574]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (515)
+[2023.09.04-16.56.04:347][574]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (513)
+[2023.09.04-16.56.04:347][574]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (511)
+[2023.09.04-16.56.04:347][574]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (509)
+[2023.09.04-16.56.04:348][574]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (507)
+[2023.09.04-16.56.04:348][574]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (505)
+[2023.09.04-16.56.04:350][574]LogModuleManager: Shutting down and abandoning module GLTFImporter (503)
+[2023.09.04-16.56.04:350][574]LogModuleManager: Shutting down and abandoning module GLTFCore (501)
+[2023.09.04-16.56.04:350][574]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (499)
+[2023.09.04-16.56.04:350][574]LogModuleManager: Shutting down and abandoning module EditorDebugTools (497)
+[2023.09.04-16.56.04:350][574]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (495)
+[2023.09.04-16.56.04:350][574]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (493)
+[2023.09.04-16.56.04:350][574]LogModuleManager: Shutting down and abandoning module CryptoKeys (491)
+[2023.09.04-16.56.04:350][574]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (489)
+[2023.09.04-16.56.04:351][574]LogModuleManager: Shutting down and abandoning module UObjectPlugin (487)
+[2023.09.04-16.56.04:351][574]LogModuleManager: Shutting down and abandoning module AlembicImporter (485)
+[2023.09.04-16.56.04:351][574]LogModuleManager: Shutting down and abandoning module AlembicLibrary (484)
+[2023.09.04-16.56.04:351][574]LogModuleManager: Shutting down and abandoning module GeometryCache (483)
+[2023.09.04-16.56.04:351][574]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (482)
+[2023.09.04-16.56.04:351][574]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (477)
+[2023.09.04-16.56.04:351][574]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (475)
+[2023.09.04-16.56.04:351][574]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (473)
+[2023.09.04-16.56.04:352][574]LogModuleManager: Shutting down and abandoning module PluginUtils (471)
+[2023.09.04-16.56.04:352][574]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (469)
+[2023.09.04-16.56.04:353][574]LogModuleManager: Shutting down and abandoning module GitSourceControl (467)
+[2023.09.04-16.56.04:354][574]LogModuleManager: Shutting down and abandoning module DumpGPUServices (465)
+[2023.09.04-16.56.04:354][574]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (463)
+[2023.09.04-16.56.04:354][574]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (461)
+[2023.09.04-16.56.04:354][574]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (459)
+[2023.09.04-16.56.04:354][574]LogModuleManager: Shutting down and abandoning module ControlRigSpline (457)
+[2023.09.04-16.56.04:354][574]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (455)
+[2023.09.04-16.56.04:355][574]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (453)
+[2023.09.04-16.56.04:355][574]LogModuleManager: Shutting down and abandoning module InterchangeTests (451)
+[2023.09.04-16.56.04:355][574]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (449)
+[2023.09.04-16.56.04:355][574]LogModuleManager: Shutting down and abandoning module SequencerScripting (447)
+[2023.09.04-16.56.04:355][574]LogModuleManager: Shutting down and abandoning module TemplateSequence (445)
+[2023.09.04-16.56.04:355][574]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (443)
+[2023.09.04-16.56.04:355][574]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (441)
+[2023.09.04-16.56.04:355][574]LogModuleManager: Shutting down and abandoning module Paper2DEditor (439)
+[2023.09.04-16.56.04:357][574]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (437)
+[2023.09.04-16.56.04:357][574]LogModuleManager: Shutting down and abandoning module TraceUtilities (435)
+[2023.09.04-16.56.04:357][574]LogModuleManager: Shutting down and abandoning module InputEditor (433)
+[2023.09.04-16.56.04:357][574]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2023.09.04-16.56.04:357][574]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2023.09.04-16.56.04:357][574]LogModuleManager: Shutting down and abandoning module ShooterGame (427)
+[2023.09.04-16.56.04:358][574]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (425)
+[2023.09.04-16.56.04:363][574]LogModuleManager: Shutting down and abandoning module PBIK (423)
+[2023.09.04-16.56.04:363][574]LogModuleManager: Shutting down and abandoning module FullBodyIK (421)
+[2023.09.04-16.56.04:363][574]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (419)
+[2023.09.04-16.56.04:363][574]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (417)
+[2023.09.04-16.56.04:363][574]LogModuleManager: Shutting down and abandoning module TakeRecorder (416)
+[2023.09.04-16.56.04:364][574]LogModuleManager: Shutting down and abandoning module ChaosCaching (413)
+[2023.09.04-16.56.04:364][574]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (411)
+[2023.09.04-16.56.04:364][574]LogModuleManager: Shutting down and abandoning module Niagara (409)
+[2023.09.04-16.56.04:365][574]LogModuleManager: Shutting down and abandoning module NiagaraEditor (408)
+[2023.09.04-16.56.04:366][574]LogModuleManager: Shutting down and abandoning module NiagaraCore (405)
+[2023.09.04-16.56.04:366][574]LogModuleManager: Shutting down and abandoning module Synthesis (403)
+[2023.09.04-16.56.04:366][574]LogModuleManager: Shutting down and abandoning module SoundFields (401)
+[2023.09.04-16.56.04:367][574]LogModuleManager: Shutting down and abandoning module SignificanceManager (399)
+[2023.09.04-16.56.04:367][574]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (397)
+[2023.09.04-16.56.04:367][574]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (395)
+[2023.09.04-16.56.04:367][574]LogModuleManager: Shutting down and abandoning module MetasoundEditor (393)
+[2023.09.04-16.56.04:368][574]LogModuleManager: Shutting down and abandoning module AudioWidgets (392)
+[2023.09.04-16.56.04:368][574]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (391)
+[2023.09.04-16.56.04:369][574]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (387)
+[2023.09.04-16.56.04:369][574]LogModuleManager: Shutting down and abandoning module MetasoundEngine (385)
+[2023.09.04-16.56.04:370][574]LogModuleManager: Shutting down and abandoning module WaveTable (384)
+[2023.09.04-16.56.04:370][574]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (382)
+[2023.09.04-16.56.04:370][574]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (379)
+[2023.09.04-16.56.04:370][574]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (377)
+[2023.09.04-16.56.04:371][574]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (375)
+[2023.09.04-16.56.04:372][574]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (373)
+[2023.09.04-16.56.04:372][574]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (371)
+[2023.09.04-16.56.04:372][574]LogModuleManager: Shutting down and abandoning module CableComponent (369)
+[2023.09.04-16.56.04:372][574]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (367)
+[2023.09.04-16.56.04:373][574]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (366)
+[2023.09.04-16.56.04:373][574]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (363)
+[2023.09.04-16.56.04:373][574]LogModuleManager: Shutting down and abandoning module SignalProcessing (362)
+[2023.09.04-16.56.04:373][574]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (359)
+[2023.09.04-16.56.04:373][574]LogModuleManager: Shutting down and abandoning module TcpMessaging (357)
+[2023.09.04-16.56.04:474][574]LogModuleManager: Shutting down and abandoning module UdpMessaging (355)
+[2023.09.04-16.56.04:575][574]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (353)
+[2023.09.04-16.56.04:575][574]LogModuleManager: Shutting down and abandoning module FacialAnimation (351)
+[2023.09.04-16.56.04:575][574]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (349)
+[2023.09.04-16.56.04:575][574]LogModuleManager: Shutting down and abandoning module DataValidation (347)
+[2023.09.04-16.56.04:575][574]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (345)
+[2023.09.04-16.56.04:576][574]LogModuleManager: Shutting down and abandoning module LevelEditor (344)
+[2023.09.04-16.56.04:580][574]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (343)
+[2023.09.04-16.56.04:581][574]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (341)
+[2023.09.04-16.56.04:581][574]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (339)
+[2023.09.04-16.56.04:581][574]LogModuleManager: Shutting down and abandoning module MainFrame (337)
+[2023.09.04-16.56.04:582][574]LogModuleManager: Shutting down and abandoning module HotReload (336)
+[2023.09.04-16.56.04:583][574]LogModuleManager: Shutting down and abandoning module ContentBrowser (332)
+[2023.09.04-16.56.04:583][574]LogModuleManager: Shutting down and abandoning module ToolMenus (331)
+[2023.09.04-16.56.04:583][574]LogModuleManager: Shutting down and abandoning module ContentBrowserData (329)
+[2023.09.04-16.56.04:583][574]LogModuleManager: Shutting down and abandoning module TreeMap (326)
+[2023.09.04-16.56.04:583][574]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (323)
+[2023.09.04-16.56.04:583][574]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (321)
+[2023.09.04-16.56.04:584][574]LogModuleManager: Shutting down and abandoning module AnimationSharing (319)
+[2023.09.04-16.56.04:584][574]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (317)
+[2023.09.04-16.56.04:585][574]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (315)
+[2023.09.04-16.56.04:585][574]LogModuleManager: Shutting down and abandoning module IKRig (313)
+[2023.09.04-16.56.04:585][574]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (311)
+[2023.09.04-16.56.04:585][574]LogModuleManager: Shutting down and abandoning module ControlRig (309)
+[2023.09.04-16.56.04:585][574]LogModuleManager: Shutting down and abandoning module LevelSequence (308)
+[2023.09.04-16.56.04:585][574]LogModuleManager: Shutting down and abandoning module GameplayCameras (305)
+[2023.09.04-16.56.04:585][574]LogModuleManager: Shutting down and abandoning module ActorSequence (303)
+[2023.09.04-16.56.04:585][574]LogModuleManager: Shutting down and abandoning module Paper2D (301)
+[2023.09.04-16.56.04:585][574]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2023.09.04-16.56.04:586][574]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2023.09.04-16.56.04:586][574]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (295)
+[2023.09.04-16.56.04:586][574]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (293)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2023.09.04-16.56.04:587][574]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2023.09.04-16.56.04:588][574]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2023.09.04-16.56.04:588][574]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2023.09.04-16.56.04:589][574]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2023.09.04-16.56.04:589][574]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2023.09.04-16.56.04:590][574]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2023.09.04-16.56.04:591][574]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2023.09.04-16.56.04:591][574]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2023.09.04-16.56.04:592][574]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2023.09.04-16.56.04:592][574]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2023.09.04-16.56.04:595][574]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2023.09.04-16.56.04:595][574]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module Core (227)
+[2023.09.04-16.56.04:597][574]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2023.09.04-16.56.04:599][574]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2023.09.04-16.56.04:601][574]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2023.09.04-16.56.04:601][574]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2023.09.04-16.56.04:603][574]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2023.09.04-16.56.04:603][574]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2023.09.04-16.56.04:603][574]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2023.09.04-16.56.04:604][574]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2023.09.04-16.56.04:604][574]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2023.09.04-16.56.04:605][574]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2023.09.04-16.56.04:605][574]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2023.09.04-16.56.04:605][574]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2023.09.04-16.56.04:605][574]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2023.09.04-16.56.04:607][574]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2023.09.04-16.56.04:607][574]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2023.09.04-16.56.04:608][574]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2023.09.04-16.56.04:619][574]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2023.09.04-16.56.04:619][574]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2023.09.04-16.56.04:628][574]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2023.09.04-16.56.04:629][574]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2023.09.04-16.56.04:629][574]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2023.09.04-16.56.04:629][574]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2023.09.04-16.56.04:630][574]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.09.04-16.56.04:631][574]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.09.04-16.56.04:632][574]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.09.04-16.56.04:632][574]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.09.04-16.56.04:632][574]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.09.04-16.56.04:632][574]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.09.04-16.56.04:633][574]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.09.04-16.56.04:634][574]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.09.04-16.56.04:634][574]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.09.04-16.56.04:634][574]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.09.04-16.56.04:634][574]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.09.04-16.56.04:634][574]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (112)
+[2023.09.04-16.56.04:634][574]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (110)
+[2023.09.04-16.56.04:634][574]LogModuleManager: Shutting down and abandoning module ChaosCloth (108)
+[2023.09.04-16.56.04:635][574]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (106)
+[2023.09.04-16.56.04:635][574]LogModuleManager: Shutting down and abandoning module NiagaraShader (104)
+[2023.09.04-16.56.04:635][574]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (102)
+[2023.09.04-16.56.04:635][574]LogModuleManager: Shutting down and abandoning module ChunkDownloader (100)
+[2023.09.04-16.56.04:635][574]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (98)
+[2023.09.04-16.56.04:635][574]LogModuleManager: Shutting down and abandoning module WmfMedia (96)
+[2023.09.04-16.56.04:640][574]LogModuleManager: Shutting down and abandoning module Media (95)
+[2023.09.04-16.56.04:643][574]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.09.04-16.56.04:643][574]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (90)
+[2023.09.04-16.56.04:643][574]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.09.04-16.56.04:649][574]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.09.04-16.56.04:649][574]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.09.04-16.56.04:662][574]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.09.04-16.56.04:662][574]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 2 outstanding Http Requests:
+[2023.09.04-16.56.04:662][574]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9BCD02F7-4FD5-A487-8A77-3EA6B68D7253%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=e31552bb4e4f112b7d13eca6025c7e35%7Ccb46da21477f43b38d4e2accbbe4ddca%7Cfdc69a50-0d0f-4731-b9e4-e5e2e3c2bf36&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.09.04-16.56.04:662][574]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9BCD02F7-4FD5-A487-8A77-3EA6B68D7253%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=e31552bb4e4f112b7d13eca6025c7e35%7Ccb46da21477f43b38d4e2accbbe4ddca%7Cfdc69a50-0d0f-4731-b9e4-e5e2e3c2bf36&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.09.04-16.56.04:688][574]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.09.04-16.56.04:689][574]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (74)
+[2023.09.04-16.56.04:690][574]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (72)
+[2023.09.04-16.56.04:691][574]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (70)
+[2023.09.04-16.56.04:691][574]LogModuleManager: Shutting down and abandoning module GLTFExporter (68)
+[2023.09.04-16.56.04:692][574]LogModuleManager: Shutting down and abandoning module VariantManagerContent (66)
+[2023.09.04-16.56.04:692][574]LogModuleManager: Shutting down and abandoning module DatasmithContent (64)
+[2023.09.04-16.56.04:692][574]LogModuleManager: Shutting down and abandoning module PixWinPlugin (62)
+[2023.09.04-16.56.04:693][574]LogModuleManager: Shutting down and abandoning module AISupportModule (60)
+[2023.09.04-16.56.04:693][574]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.09.04-16.56.04:693][574]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.09.04-16.56.04:693][574]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.09.04-16.56.04:693][574]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.09.04-16.56.04:693][574]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.09.04-16.56.04:693][574]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.09.04-16.56.04:695][574]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.09.04-16.56.04:696][574]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.09.04-16.56.04:696][574]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.09.04-16.56.04:697][574]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.09.04-16.56.04:698][574]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.09.04-16.56.04:699][574]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.09.04-16.56.04:699][574]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.09.04-16.56.04:700][574]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.09.04-16.56.04:700][574]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.09.04-16.56.04:700][574]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.09.04-16.56.04:700][574]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.09.04-16.56.04:700][574]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.09.04-16.56.04:703][574]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.09.04-16.56.04:703][574]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.09.04-16.56.04:704][574]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.09.04-16.56.04:704][574]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.09.04-16.56.04:704][574]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.09.04-16.56.04:705][574]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.09.04-16.56.04:705][574]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.09.04-16.56.04:705][574]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.09.04-16.56.04:705][574]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.09.04-16.56.04:705][574]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.09.04-16.56.04:705][574]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.09.04-16.56.04:908][574]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.09.04-16.56.05:007][574]LogExit: Exiting.
+[2023.09.04-16.56.05:024][574]Log file closed, 09/04/23 17:56:05
