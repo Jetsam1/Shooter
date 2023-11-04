@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "y:\\unreal games\\shooter\\shooter\\shootergame\\source\\shootergame\\shootergame.cpp",
+        "ProvidedModule": "",
+        "PCH": "y:\\unreal games\\shooter\\shooter\\shootergame\\intermediate\\build\\win64\\shootergame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "y:\\unreal games\\shooter\\shooter\\shootergame\\intermediate\\build\\win64\\unrealgame\\development\\shootergame\\definitions.shootergame.h",
+            "y:\\unreal games\\shooter\\shooter\\shootergame\\source\\shootergame\\shootergame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

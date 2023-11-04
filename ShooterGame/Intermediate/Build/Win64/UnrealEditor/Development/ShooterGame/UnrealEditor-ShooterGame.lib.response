@@ -7,9 +7,13 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\ShooterGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\PlayerCharacter.gen.cpp.obj"
 "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\ShooterGame.init.gen.cpp.obj"
 "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\ShooterGameGameModeBase.gen.cpp.obj"
+"Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\ShooterPlayerCharacter.gen.cpp.obj"
 "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\ShooterGame.cpp.obj"
 "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\ShooterGameGameModeBase.cpp.obj"
+"Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\PlayerCharacter.cpp.obj"
+"Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\ShooterPlayerCharacter.cpp.obj"
 "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\Default.rc2.res"
 /OUT:"Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Development\ShooterGame\UnrealEditor-ShooterGame.lib"
