@@ -31,6 +31,11 @@ public:
 
 	void MoveForward(float AxisScale);
 	void MoveRight(float AxisScale);
+	void LookUpRate(float AxisScale);
+	void LookRightRate(float AxisScale);
+
+	UPROPERTY(EditAnywhere)
+	float RotationRate = 8;
 
 
 };
