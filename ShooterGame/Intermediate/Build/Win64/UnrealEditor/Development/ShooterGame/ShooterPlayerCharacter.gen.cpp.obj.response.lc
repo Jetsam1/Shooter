@@ -1,5 +1,6 @@
 "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Inc\ShooterGame\UHT\ShooterPlayerCharacter.gen.cpp"
 /I .
+/I "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Source\ShooterGame\Private"
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
 /I ..\Shaders\Shared
@@ -271,6 +272,7 @@
 /I Developer\AnimationDataController\Public
 /I "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Intermediate\Build\Win64\UnrealEditor\Inc\ShooterGame\UHT"
 /I "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Source"
+/I "Y:\Unreal Games\Shooter\Shooter\ShooterGame\Source\ShooterGame\Public"
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source

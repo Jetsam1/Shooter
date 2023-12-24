@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "ShooterGame/ShooterPlayerCharacter.h"
+#include "ShooterGame/Public/ShooterPlayerCharacter.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeShooterPlayerCharacter() {}
 // Cross Module References
@@ -39,7 +39,7 @@ void EmptyLinkFunctionForGeneratedCodeShooterPlayerCharacter() {}
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AShooterPlayerCharacter_Statics::Class_MetaDataParams[] = {
 		{ "HideCategories", "Navigation" },
 		{ "IncludePath", "ShooterPlayerCharacter.h" },
-		{ "ModuleRelativePath", "ShooterPlayerCharacter.h" },
+		{ "ModuleRelativePath", "Public/ShooterPlayerCharacter.h" },
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AShooterPlayerCharacter_Statics::StaticCppClassTypeInfo = {
@@ -74,15 +74,15 @@ void EmptyLinkFunctionForGeneratedCodeShooterPlayerCharacter() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AShooterPlayerCharacter);
 	AShooterPlayerCharacter::~AShooterPlayerCharacter() {}
-	struct Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_ShooterPlayerCharacter_h_Statics
+	struct Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_Public_ShooterPlayerCharacter_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_ShooterPlayerCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AShooterPlayerCharacter, AShooterPlayerCharacter::StaticClass, TEXT("AShooterPlayerCharacter"), &Z_Registration_Info_UClass_AShooterPlayerCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AShooterPlayerCharacter), 2652427519U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_Public_ShooterPlayerCharacter_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AShooterPlayerCharacter, AShooterPlayerCharacter::StaticClass, TEXT("AShooterPlayerCharacter"), &Z_Registration_Info_UClass_AShooterPlayerCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AShooterPlayerCharacter), 3908419444U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_ShooterPlayerCharacter_h_627371701(TEXT("/Script/ShooterGame"),
-		Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_ShooterPlayerCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_ShooterPlayerCharacter_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_Public_ShooterPlayerCharacter_h_2990754952(TEXT("/Script/ShooterGame"),
+		Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_Public_ShooterPlayerCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Games_Shooter_Shooter_ShooterGame_Source_ShooterGame_Public_ShooterPlayerCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

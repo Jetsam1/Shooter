@@ -1,5 +1,21 @@
 [
 	{
+		"file": "Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\Source\\ShooterGame\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\.vscode\\compileCommands_ShooterGame\\ShooterGame.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\Source\\ShooterGame\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\.vscode\\compileCommands_ShooterGame\\ShooterGame.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
 		"file": "Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
@@ -33,6 +49,22 @@
 	},
 	{
 		"file": "Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\Source\\ShooterGame\\ShooterGameGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\.vscode\\compileCommands_ShooterGame\\ShooterGame.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\Source\\ShooterGame\\ShooterPlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\.vscode\\compileCommands_ShooterGame\\ShooterGame.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\Source\\ShooterGame\\ShooterPlayerCharacter.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
 			"@Y:\\Unreal Games\\Shooter\\Shooter\\ShooterGame\\.vscode\\compileCommands_ShooterGame\\ShooterGame.255.rsp"
